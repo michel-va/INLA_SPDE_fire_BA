@@ -1,12 +1,15 @@
 # INLA_SPDE_fire_BA
 Spatially explicit analysis of socio-ecological drivers of fires regimes in the Brazilian Amazon from 2011-2020
 
-# Assessing the impact of socio-ecological drivers on fires in the Brazilian Amazon 
 
 ## Content of the repository 
-The repository contains several inter-dependant files, make sure they are all in the same working directory when you launch the analysis. You'll also need an RData file with all the data. 
+The repository contains several inter-dependant files, make sure they are all in the same working directory when you launch the analysis. You'll also need an RData file with all the data, that is available upon request. 
+
 * **function_cat.R:** contain the function inlabru need to get the value of the different covariates on the observed points and the integration point of the mesh 
-* **model_agri_period:** core of the analysis, loading the RData files with all the covariates as pixels dataframe and saving a datafile with the resulting model 
+* **amazon_border:** folder with the required shapefile for delimiting the area of interest 
+* **model_agri_period:** analysis of agricultural fires for the 2 periods 
+* **model_defo_period:** analysis of deforestation fires for the 2 periods  
+* **model_forest_period:** analysis of forest fires for the 2 periods   
 
 
 ## Run the model 
