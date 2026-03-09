@@ -25,7 +25,7 @@ Posterior means and 95% credible intervals of explanatory variables for deforest
 Posterior means and 95% credible intervals of explanatory variables for agricultural fires in the Brazilian Amazon
 
 ### Forest fires 
-![figure_forest](https://github.com/user-attachments/assets/98293d8e-4444-4915-9b44-ca0f2614c50a)
+![figure_forest](https://github.com/user-attachments/assets/f33a8550-c415-4b8b-abe0-004ad1fba76b)
 Posterior means and 95% credible intervals of explanatory variables for forest fires in the Brazilian Amazon
 
 
