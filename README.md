@@ -1,4 +1,4 @@
-# INLA_SPDE_fire_BA
+<img width="3751" height="4288" alt="figure_defo" src="https://github.com/user-attachments/assets/2b1f3228-281d-485d-a6eb-507bb9358dd8" /># INLA_SPDE_fire_BA
 Spatially explicit analysis of socio-ecological drivers of fires regimes in the Brazilian Amazon from 2009-2024
 
 
@@ -17,17 +17,17 @@ For running the model on the HPC, you'll need to use the HPC (eg specification: 
 ## Results 
 
 ### Deforestation fires 
-![figure_defo](https://github.com/user-attachments/assets/032e61e1-f347-48b1-923a-86d4cb9ff91d)
+<img width="3751" height="4288" alt="figure_defo" src="https://github.com/user-attachments/assets/4b670d65-1629-4764-ad08-7d1655af2a54" />
 
 Posterior means and 95% credible intervals of explanatory variables for deforestation fires in the Brazilian Amazon
 
 ### Agricultural fires 
-![figure_agri](https://github.com/user-attachments/assets/59c286a4-56ec-4255-980d-1a415b8fbc33)
+<img width="3751" height="4288" alt="figure_agri" src="https://github.com/user-attachments/assets/8a144316-53cf-4bc6-ab5d-9580b38199b8" />
 
 Posterior means and 95% credible intervals of explanatory variables for agricultural fires in the Brazilian Amazon
 
 ### Forest fires 
-![figure_forest](https://github.com/user-attachments/assets/719822bc-e6a2-475b-8ec0-0b00b22fe918)
+<img width="3708" height="4288" alt="figure_forest" src="https://github.com/user-attachments/assets/f14c22dc-2493-45c6-8e0a-df522907f4e2" />
 
 Posterior means and 95% credible intervals of explanatory variables for forest fires in the Brazilian Amazon
 
