@@ -1,4 +1,4 @@
-<img width="3751" height="4288" alt="figure_defo" src="https://github.com/user-attachments/assets/2b1f3228-281d-485d-a6eb-507bb9358dd8" /># INLA_SPDE_fire_BA
+## INLA_SPDE_fire_BA
 Spatially explicit analysis of socio-ecological drivers of fires regimes in the Brazilian Amazon from 2009-2024
 
 
