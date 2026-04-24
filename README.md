@@ -17,7 +17,7 @@ For running the model on the HPC, you'll need to use the HPC (eg specification: 
 ## Results 
 
 ### Deforestation fires 
-<img width="3783" height="4288" alt="figure_defo" src="https://github.com/user-attachments/assets/1652078d-d186-4d41-ab06-b379e0463240" />
+<img width="3783" height="4288" alt="figure_defo" src="https://github.com/user-attachments/assets/ae8204d0-99d8-4529-9d40-d609c3cf6e6d" />
 
 Posterior means and 95% credible intervals of explanatory variables for deforestation fires in the Brazilian Amazon
 
@@ -27,7 +27,7 @@ Posterior means and 95% credible intervals of explanatory variables for deforest
 Posterior means and 95% credible intervals of explanatory variables for agricultural fires in the Brazilian Amazon
 
 ### Forest fires 
-<img width="3756" height="4288" alt="figure_forest" src="https://github.com/user-attachments/assets/48449bb4-0c20-4dfb-805b-9fe877fe8e6f" />
+<img width="3756" height="4288" alt="figure_forest" src="https://github.com/user-attachments/assets/5365e355-c9a8-4dba-96bf-0883d1ae5d0c" />
 
 Posterior means and 95% credible intervals of explanatory variables for forest fires in the Brazilian Amazon
 
